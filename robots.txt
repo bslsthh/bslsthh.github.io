@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bslsthh.github.io/sitemap.xml
