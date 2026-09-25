@@ -95,6 +95,7 @@
   .post-nav .next { margin-left: auto; text-align: right; }
   .post-nav .k { font-family: var(--sans); font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
   .post-nav .t { font-size: 16px; line-height: 1.4; }
+  .after-timeline { margin-top: 40px; }
   footer { margin-top: 56px; }
   @media (max-width: 420px) {
     body { font-size: 17px; }
